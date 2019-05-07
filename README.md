@@ -1,4 +1,4 @@
 # wather
 public static void main (String[] args){
-    system.out.println("LUL!!!)
+    System.out.println("LUL!!!)
 }
